@@ -119,3 +119,8 @@ pipeline {
 
 
 }
+/*	
+	tools {
+        maven "maven3"
+    }
+*/
